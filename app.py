@@ -4,7 +4,7 @@ import json
 
 st.set_page_config(page_title="Análise de Viabilidade Construtiva", layout="wide")
 
-st.title("🏗️ Análise de Viabilidade Construtiva - Residencial")
+st.title("🏗️ Análise de Viabilidade Construtiva")
 st.markdown("Preencha as informações abaixo para gerar o relatório preliminar de viabilidade construtiva.")
 
 # Seções do questionário
